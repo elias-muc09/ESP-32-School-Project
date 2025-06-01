@@ -103,6 +103,8 @@ Leds:
 
 **Don't forget the resisters between every led (you only need them on those wires that dont go to GND, the buzzer dosen't need a resistor) and to secure all cables and other parts**
 
+**Have fun!!!**
+
 ---
 
 Pinout of the ESP I used:
