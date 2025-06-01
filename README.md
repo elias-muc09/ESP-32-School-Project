@@ -47,7 +47,7 @@ Open Thonny, plug the esp into your computer and flash [Micropython](https://doc
 
 Upload the Code
 
-Big thanks to [Jonoack](https://github.com/jonoack) for coding my project
+Big thanks to [Jonoack](https://github.com/jonoack) for coding my project while I build the House and connectet all parts
 
 
 **Step 4:**
