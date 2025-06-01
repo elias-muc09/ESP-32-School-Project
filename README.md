@@ -24,3 +24,6 @@
 
 - Some Glue (I used a hot glue gun, that worked out pretty good)
 - Something to prevent the cables from falling into the door (I used a zip tie glued to the celing and wall)
+
+
+*Step 1:*
