@@ -47,6 +47,8 @@ Open Thonny, plug the esp into your computer and flash [Micropython](https://doc
 
 Upload the Code
 
+Big thanks to @jonoack for coding my project
+
 
 **Step 4:**
 
