@@ -62,7 +62,7 @@ Add the Electronics:
 - The blinkin red led with the white led in the front
 - One of the RGB led´s in the left room (with the chimney), the other one in the main room
 - The buzzer in the chimney
-- Run all the cables to the back
+- Run all the cables to the back (squeeze them trrou every space so they aren't noticable) 
 
 
 **Step 6:**
@@ -101,10 +101,16 @@ Leds:
 - the longer ones = GND
 
 
-**Don't forget the resisters between every led (you only need them on those wires that dont go to GND, the buzzer dosen't need a resistor)**
+**Don't forget the resisters between every led (you only need them on those wires that dont go to GND, the buzzer dosen't need a resistor) and to secure all cables and other parts**
 
 ---
 
 Pinout of the ESP I used:
 
 ![ESP32S3_Pinout](https://github.com/user-attachments/assets/ee496d8e-9ea8-47a7-aebf-25d86bdc8acb)
+
+---
+
+A few pictures of my house:
+
+![Minimalist Photo Collage Instagram Post](https://github.com/user-attachments/assets/2345b567-777c-4c29-a234-fef87c19b5db)
