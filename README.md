@@ -116,3 +116,6 @@ Pinout of the ESP I used:
 A few pictures of my house:
 
 ![Minimalist Photo Collage Instagram Post](https://github.com/user-attachments/assets/2345b567-777c-4c29-a234-fef87c19b5db)
+
+
+**Im going to add more pictures to the files not read me and the pinout as well
