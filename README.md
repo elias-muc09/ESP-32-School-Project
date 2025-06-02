@@ -110,12 +110,10 @@ Leds:
 Pinout of the ESP I used:
 
 ![ESP32S3_Pinout](https://github.com/user-attachments/assets/ee496d8e-9ea8-47a7-aebf-25d86bdc8acb)
+[Scr](https://forum.arduino.cc/t/esp32-s3-wroom-freenove/1345470)
 
 ---
 
 A few pictures of my house:
 
-![Minimalist Photo Collage Instagram Post](https://github.com/user-attachments/assets/2345b567-777c-4c29-a234-fef87c19b5db)
-
-
-**Im going to add more pictures to the files not read me and the pinout as well
+![Pictures](https://github.com/user-attachments/assets/2345b567-777c-4c29-a234-fef87c19b5db)
