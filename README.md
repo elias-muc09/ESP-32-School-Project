@@ -1,5 +1,8 @@
 # Simple ESP-32 House
 
+This is a simple application/demo of smart home, were you have a web interface, which can control led's and a buzzer.
+
+---
 
 ***Needed Hardware:***
 
@@ -31,6 +34,7 @@
 
 ---
 
+***Building Process:***
 
 **Step 1:**
 
